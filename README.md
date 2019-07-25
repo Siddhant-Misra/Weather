@@ -1,4 +1,6 @@
-﻿This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+A ReactJS Webapp that shwos the Weather of any place of your choice. It uses the Open-Weather data API. 
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Check out the project here at: https://weather-sid.azurewebsites.net/
 
