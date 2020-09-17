@@ -1,4 +1,4 @@
-A ReactJS Webapp that shwos the Weather of any place of your choice. It uses the Open-Weather data API. 
+A ReactJS Webapp that shows the Weather of any place of your choice. It uses the Open-Weather data API. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
